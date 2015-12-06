@@ -1,0 +1,28 @@
+#params thead,#params tbody{
+    /*display:inline-block;*/
+}
+
+.param_value {
+    width: 50px;
+}
+#chart {
+    width: 65%;
+    float: right;
+}
+#chartContainer {
+    height: 300px;
+    width: 100%;
+    /*background: #888;*/
+}
+#params_div {
+    width:35%;
+    overflow: hidden;
+    /*background: #ccc*/
+}
+#parent {
+    overflow: hidden;
+}
+
+#model_exp {
+
+}
